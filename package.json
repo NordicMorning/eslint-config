@@ -1,7 +1,8 @@
 {
   "name": "@nordic-morning-se/eslint-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Eslint config for Nordic Morning",
+  "homepage": "https://github.com/nordic-morning-se/eslint-config#readme",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +11,10 @@
     "config",
     "eslint"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nordic-morning-se/eslint-config.git"
+  },
   "author": "The Nordic Morning Frontend Crew",
   "license": "MIT",
   "dependencies": {
